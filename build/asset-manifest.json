@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/misosoup17/theclickygame/static/js/main.76a42dd3.chunk.js",
+    "main.js.map": "/misosoup17/theclickygame/static/js/main.76a42dd3.chunk.js.map",
+    "runtime-main.js": "/misosoup17/theclickygame/static/js/runtime-main.66abcb72.js",
+    "runtime-main.js.map": "/misosoup17/theclickygame/static/js/runtime-main.66abcb72.js.map",
+    "index.html": "/misosoup17/theclickygame/index.html",
+    "precache-manifest.5687c0c78c05b2240d8b1198bd591418.js": "/misosoup17/theclickygame/precache-manifest.5687c0c78c05b2240d8b1198bd591418.js",
+    "service-worker.js": "/misosoup17/theclickygame/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66abcb72.js",
+    "static/js/main.76a42dd3.chunk.js"
+  ]
+}
