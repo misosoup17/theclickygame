@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/misosoup17/theclickygame/static/js/main.76a42dd3.chunk.js",
-    "main.js.map": "/misosoup17/theclickygame/static/js/main.76a42dd3.chunk.js.map",
-    "runtime-main.js": "/misosoup17/theclickygame/static/js/runtime-main.66abcb72.js",
-    "runtime-main.js.map": "/misosoup17/theclickygame/static/js/runtime-main.66abcb72.js.map",
+    "main.js": "/misosoup17/theclickygame/static/js/main.91a165ce.chunk.js",
+    "main.js.map": "/misosoup17/theclickygame/static/js/main.91a165ce.chunk.js.map",
+    "runtime-main.js": "/misosoup17/theclickygame/static/js/runtime-main.7769f6ca.js",
+    "runtime-main.js.map": "/misosoup17/theclickygame/static/js/runtime-main.7769f6ca.js.map",
     "index.html": "/misosoup17/theclickygame/index.html",
-    "precache-manifest.5687c0c78c05b2240d8b1198bd591418.js": "/misosoup17/theclickygame/precache-manifest.5687c0c78c05b2240d8b1198bd591418.js",
+    "precache-manifest.6d6729e9c5cc82265544d144a8eb2522.js": "/misosoup17/theclickygame/precache-manifest.6d6729e9c5cc82265544d144a8eb2522.js",
     "service-worker.js": "/misosoup17/theclickygame/service-worker.js"
   },
   "entrypoints": [
-    "static/js/runtime-main.66abcb72.js",
-    "static/js/main.76a42dd3.chunk.js"
+    "static/js/runtime-main.7769f6ca.js",
+    "static/js/main.91a165ce.chunk.js"
   ]
 }
